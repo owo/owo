@@ -1,4 +1,4 @@
-Hi, I’m Ossama Obeid, a Reasearch Assistant at New York University Abu Dhabi.
+Hi, I’m Ossama Obeid, a Reasearch Associate at New York University Abu Dhabi.
 
 I currently work on Arabic Natural Language Processing at [CAMeL Lab](http://camel-lab.com/), primarily maintaining [CAMeL Tools](https://github.com/CAMeL-Lab/camel_tools) among other things. 
 
